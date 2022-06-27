@@ -1,0 +1,1 @@
+{"name":"changelog-test","private":true,"version":"2.2.0","scripts":{"dev":"vite","build":"vite build","preview":"vite preview","changelog":"conventional-changelog -p angular -i CHANGELOG.md -s --commit-path ."},"devDependencies":{"vite":"^2.9.13","conventional-changelog-cli":"^2.2.2","conventional-changelog-conventionalcommits":"^5.0.0"}}
