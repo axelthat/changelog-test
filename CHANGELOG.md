@@ -1,3 +1,13 @@
+# [2.3.0](https://github.com/axelthat/changelog-test/compare/v2.2.0...v2.3.0) (2022-06-27)
+
+
+### Features
+
+* g ([b47c297](https://github.com/axelthat/changelog-test/commit/b47c29755c151c45afd596c1b7e46cef6e933c1e))
+* h ([2f98c9e](https://github.com/axelthat/changelog-test/commit/2f98c9e1fcead3180e688f3512dad074a8ad149b))
+
+
+
 # 2.2.0 (2022-06-27)
 
 
