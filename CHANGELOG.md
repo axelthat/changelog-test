@@ -1,3 +1,17 @@
+# 2.2.0 (2022-06-27)
+
+
+### Features
+
+* a (edited) ([22a4a27](https://github.com/axelthat/changelog-test/commit/22a4a27e068d03f192f25b64b90566490cc1e4da))
+* b ([ad7b203](https://github.com/axelthat/changelog-test/commit/ad7b203ccd511930650041fcdc2e219f2c1762b7))
+* c ([86e8377](https://github.com/axelthat/changelog-test/commit/86e8377204b732f3cbf1f800b77997672ac7a6e0))
+* d ([1e9a68f](https://github.com/axelthat/changelog-test/commit/1e9a68f03aa554bf2fdd53fc299a871e4fb3ca9e))
+* e ([871b6c5](https://github.com/axelthat/changelog-test/commit/871b6c5f31867a197aaf0265506d34f09d1841a8))
+* f ([7303b97](https://github.com/axelthat/changelog-test/commit/7303b976adc9f7549dfed2631f6404eb6b21d69c))
+
+
+
 # [2.1.0](https://github.com/axelthat/changelog-test/compare/v1.0.0...v2.1.0) (2022-06-27)
 
 
